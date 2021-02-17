@@ -20,5 +20,5 @@ Such amount or levels of structure fits nice.
 Another userful thing is flagging the notes. Marking 'ongoing' context, currently needed notes. I do it with `flag` tag. 
 So a combination of connection between releated notes, context/index notes, and marks for currently needed notes allows to keep everything you need in a few clicks away.
 
-Besides that, an article https://zettelkasten.de/posts/three-layers-structure-zettelkasten/ also mentiones an idea of 'double hash tags'. A sort of 'meta tag', similar to 'hub of a hubs', but in terms of tagging. 
+Besides that, an [article](https://zettelkasten.de/posts/three-layers-structure-zettelkasten) also mentiones an idea of 'double hash tags'. A sort of 'meta tag', similar to 'hub of a hubs', but in terms of tagging. 
 Haven't yet used such a thing for myself, but will keep it in mind
