@@ -1,0 +1,1 @@
+hugo -D && scp -r ./public/* do_first_one_root:/sites/demo
