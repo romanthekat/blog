@@ -2,9 +2,9 @@
 title: "[16/100] Things I like in Nim lang 1"
 date: 2021-01-05
 draft: false
+tags: [language]
 ---
 
-#language
 There is an open-source programming language called Nim.
 It is a statically typed compiled language, looks a lot like python (small amount of syntax noise combined with spaces for identation/code blocks).
 
