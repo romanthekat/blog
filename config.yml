@@ -46,7 +46,7 @@ params:
         favicon: "favicon_loaf_gray.png"
         favicon16x16: "favicon_loaf_gray.png"
         favicon32x32: "favicon_loaf_gray.png"
-        apple_touch_icon: "favicon_loaf_gray.png"
+        apple_touch_icon: "favicon_loaf.png"
         #safari_pinned_tab: "<link / abs url>"
 
     label:
