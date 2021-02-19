@@ -83,7 +83,7 @@ params:
           url: "https://t.me/roman_the_kat"
         - name: "dev"
           url: "https://dev.to/romanthekat"
-        - name: RsS
+        - name: rss
           url: "index.xml"
 
     cover:
