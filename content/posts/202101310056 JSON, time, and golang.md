@@ -1,6 +1,6 @@
 ---
 title: "[19/100] JSON, time, and golang"
-date: 2021-02-18
+date: 2021-02-19
 draft: false
 ---
 
@@ -16,7 +16,7 @@ Golang supports ISO 8601, so it will work as you might expect:
 dateString := "2021-02-18T21:54:42.123Z"
 date, err := time.Parse(time.RFC3339, dateString) //RFC 3339 is a profile for ISO 8601
 ```
-`date` will have the `time.Time`. (let's skip for a moment the difference between realtime and monotonic time)
+`date` will have the `time.Time` value. (let's skip for a moment the difference between realtime and monotonic time)
 
 Apart from such a detailed 'point of time' there is also 'calendar date', or 'civil time' - representation of a 'day', e.g. `2021-02-18`. A common thing to use.
 
@@ -39,7 +39,7 @@ func main() {
     jsonString := `{"name": "A name", "time": "2021-02-18T21:54:42.123Z"}`
     var entity Entity
     err := json.Unmarshal([]byte(jsonString), &entity)
-}    
+}
 ```
 Works nicely.
 
