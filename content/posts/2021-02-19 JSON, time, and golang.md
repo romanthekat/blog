@@ -10,7 +10,7 @@ So whereas you see something like `2021-02-18T21:54:42.123Z` in JSON - it's stil
 Some languages firmly follow that, like [nim](https://nim-lang.org/docs/json.html) stdlib parser. 
 Some try to parse as if it were [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) time. 
 Which is actually nice - it's human readable, sortable, portable, well supported and precise. 
-Though such support sometimes causes extra fun, like java's jackson lib and [JSR 310](https://jcp.org/en/jsr/detail?id=310) if currespondent parsing module is not added for java 8+ date/time classes. 
+Though such support sometimes causes extra fun, like java's jackson lib and [JSR 310](https://jcp.org/en/jsr/detail?id=310) if correspondent parsing module is not added for java 8+ date/time classes. 
 
 Golang supports ISO 8601, so it will work as you might expect:
 ```go
