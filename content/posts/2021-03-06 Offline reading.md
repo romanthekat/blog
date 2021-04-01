@@ -9,7 +9,7 @@ I rely on several apps and offline mode for reading.
 
 Probably the main app for me is [Pocket](http://getpocket.com). There are a lot of great articles you can find, and most of them will be saved in there.
 Some will be tagged (top priority/first to read things, usually).  
-On the other hand, I'm kinda curious in [wallabag](https://wallabag.org) (self-hosted open source solution with mobile version).
+On the other hand, I'm kinda curious in [wallabag](https://wallabag.it) (self-hosted open source solution with mobile version).
 
 As a data source I often use RSS, for quite a set of blogs.  
 I like the idea of 'pulling' information, rathen than 'being pushed' (as in email subscriptions, for example).  
