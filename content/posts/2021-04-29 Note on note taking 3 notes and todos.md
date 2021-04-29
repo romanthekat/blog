@@ -9,7 +9,7 @@ If you search for 'productivity tools' being used in a wild, you usually see app
 
 For me it feels the reason is - vastly different lifecycles: there are 'notes', made as a ~long-term thing; and 'action items', a ~short-term things to execute.
 
-For last ~5 months I've being using zettelkasten-like approach for making my notes, and as an experiment I've tried to keep my todo lists in the very same manner.
+For last 5 months I've being using zettelkasten-like approach for making my notes, and as an experiment I've tried to keep my todo lists in the very same manner.
 And it wasn't as smooth as I'd want it to.
 The usage of notes and todos drastically differs - the way you add, search, modify, get rid of them. 
 
