@@ -3,6 +3,7 @@ title: "[21/100] Note on note taking 3: notes and todos"
 date: 2021-04-29
 draft: false
 published: true
+canonical_url: https://romangaranin.dev/posts/2021-04-29-note-on-note-taking-3-notes-and-todos/
 ---
 If you search for 'productivity tools' being used in a wild, you usually see apps for note taking/making. But it often comes in pair with some todo-lists app.
 
