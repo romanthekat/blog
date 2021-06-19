@@ -5,6 +5,8 @@ draft: false
 published: true
 canonical_url: https://romangaranin.dev/posts/2021-04-29-note-on-note-taking-3-notes-and-todos/
 ---
+tl;dr It's worth having 'notes' and 'todos' separately, probably in separate apps. They are too different.
+
 If you search for 'productivity tools' being used in a wild, you usually see apps for note taking/making. But it often comes in pair with some todo-lists app.
 
 For me it feels the reason is - vastly different lifecycles: there are 'notes', made as a ~long-term thing; and 'action items', a ~short-term things to execute.
