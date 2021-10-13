@@ -5,7 +5,7 @@ draft: false
 published: true
 ---
 
-I rely on several apps and offline mode for reading. 
+I rely on several apps for reading, mostly offline ones.  
 
 Probably the main app for me is [Pocket](http://getpocket.com). There are a lot of great articles you can find, and most of them will be saved in there.
 Some will be tagged (top priority/first to read things, usually).  
