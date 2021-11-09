@@ -23,10 +23,10 @@ So for 'truly' endless canvas apps I've ended up with:
 - [zoomnotes](http://zoom-notes.com)
 
 **Endless paper** was probably the first app of such a kind I found. 
-It looks really nice in promo, with its main feature: infinite canvas + infinite zoom. A page becomes truly infinite.
+It looks really nice in promo, with it's main feature: infinite canvas + infinite zoom. A page becomes truly infinite.
 But it lacks lasso, you can't simply re-arrange stuff you've written. So I moved on.
 
-**Blankbook** was great and brilliant in its simplicity.
+**Blankbook** was great and brilliant in it's simplicity.
 But background is static, doesn't move with scrolling, which was a tad confusing for me.
 
 **Concepts** is great. 
