@@ -20,9 +20,9 @@ Alternatively, if you see possibly related ideas, or see some pattern in data, y
 I once thought: if you have interconnected notes can you create such a context/index note automatically, can it be useful?
 While doing it 'manually' you revisit all these notes, re-thinking all that thoughts again, you get more benefits of it. But possibly automatic summary can be useful too.
 
-As a result I conducted an [experiment](https://github.com/EvilKhaosKat/r-notes), small program that accepts filepath to a note, then it checks the links from this note to other notes, recursively doing it again and again.
+As a result I conducted an [experiment](https://github.com/romanthekat/r-notes), small program that accepts filepath to a note, then it checks the links from this note to other notes, recursively doing it again and again.
 
-[Result](https://github.com/EvilKhaosKat/r-notes/) looks this [way](https://github.com/EvilKhaosKat/r-notes/blob/main/outliner.png) in The Archive app.
+[Result](https://github.com/romanthekat/r-notes/) looks this [way](https://github.com/romanthekat/r-notes/blob/main/outliner.png) in The Archive app.
 Seems like 3 levels of connections (note->links->links of links) work well. 
 It doesn't overload you with tons of related notes (even 4 levels can be pretty messy), while giving you some extra context.
 It doesn't support backlinking at the moment. Probably links itself should have a context (_why_ a note relates to other note - what was written nearby).

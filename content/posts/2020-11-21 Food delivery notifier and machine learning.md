@@ -4,7 +4,7 @@ date: 2020-11-21
 draft: false
 ---
 
-There is a simple project of mine called [food delivery notifier](http://github.com/EvilKhaosKat/food-delivery-notifier).
+There is a simple project of mine called [food delivery notifier](http://github.com/romanthekat/food-delivery-notifier).
 It checks current food delivery status and shows it in system tray. As for me - a bit more convenient than constantly refresh the page.
 
 Currenlty supported service has a map and coordinates info, it shows courier location.

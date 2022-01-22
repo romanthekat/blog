@@ -4,7 +4,7 @@ date: 2020-11-24
 draft: false
 ---
 
-So the idea of using ML in [food delivery notifier](https://github.com/EvilKhaosKat/food-delivery-notifier) service did and did not work out.
+So the idea of using ML in [food delivery notifier](https://github.com/romanthekat/food-delivery-notifier) service did and did not work out.
 
 On the one hand - everything went relatively smooth.
 It was good to remember how to use python and ipython notebook, prepare and parse data (finite state machine for the win!), try out few regression models, make some 'insights'.
