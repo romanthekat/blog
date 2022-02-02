@@ -1,5 +1,5 @@
 ---
-title: "[3/100] Two written notes, two writing thoughts"
+title: "Two written notes, two writing thoughts"
 date: 2020-11-07
 draft: false
 ---

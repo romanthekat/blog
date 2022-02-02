@@ -1,5 +1,5 @@
 ---
-title: "[15/100] Ruby Christmas present and perspectives"
+title: "Ruby Christmas present and perspectives"
 date: 2020-12-26
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "[7/100] Food delivery notifier: first ML results"
+title: "Food delivery notifier: first ML results"
 date: 2020-11-24
 draft: false
 ---

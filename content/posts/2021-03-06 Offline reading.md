@@ -1,5 +1,5 @@
 ---
-title: "[20/100] Offline reading"
+title: "Offline reading"
 date: 2021-03-06
 draft: false
 published: true

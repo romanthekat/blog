@@ -1,5 +1,5 @@
 ---
-title: "[14/100] Branches and releases 1.5"
+title: "Branches and releases 1.5"
 date: 2020-12-25
 draft: false
 ---

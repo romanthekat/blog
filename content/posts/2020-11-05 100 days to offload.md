@@ -1,5 +1,5 @@
 ---
-title: "[1/100] 100 days to offload"
+title: "100 days to offload"
 date: 2020-11-05
 draft: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: "[2/100] Branches, releases, and how to live with that?"
+title: "Branches, releases, and how to live with that?"
 date: 2020-11-06 
 draft: false
 ---

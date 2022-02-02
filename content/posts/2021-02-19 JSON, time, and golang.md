@@ -1,5 +1,5 @@
 ---
-title: "[19/100] JSON, time, and golang"
+title: "JSON, time, and golang"
 date: 2021-02-19
 published: true
 ---

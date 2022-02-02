@@ -1,5 +1,5 @@
 ---
-title: "[4/100] Gonna re-visit some Rust"
+title: "Gonna re-visit some Rust"
 date: 2020-11-12
 draft: false
 ---

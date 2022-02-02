@@ -1,5 +1,5 @@
 ---
-title: "[12/100] Escaping Org-mode"
+title: "Escaping Org-mode"
 date: 2020-12-13
 draft: false
 ---

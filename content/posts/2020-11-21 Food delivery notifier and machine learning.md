@@ -1,5 +1,5 @@
 ---
-title: "[6/100] Food delivery notifier and 'machine learning'"
+title: "Food delivery notifier and 'machine learning'"
 date: 2020-11-21
 draft: false
 ---

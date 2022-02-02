@@ -1,5 +1,5 @@
 ---
-title: "[13/100] 235 read articles and automatic outliner"
+title: "235 read articles and automatic outliner"
 date: 2020-12-19
 draft: false
 ---

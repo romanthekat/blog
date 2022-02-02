@@ -1,5 +1,5 @@
 ---
-title: "[5/100] Refactoring time!"
+title: "Refactoring time!"
 date: 2020-11-15
 draft: false
 ---

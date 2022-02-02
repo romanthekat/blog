@@ -1,5 +1,5 @@
 ---
-title: "[21/100] Note on note taking 3: notes and todos"
+title: "Note on note taking 3: notes and todos"
 date: 2021-04-29
 draft: false
 published: true

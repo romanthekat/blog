@@ -1,5 +1,5 @@
 ---
-title: "[18/100] Note on note taking 2"
+title: "Note on note taking 2"
 date: 2021-01-22
 draft: false
 ---

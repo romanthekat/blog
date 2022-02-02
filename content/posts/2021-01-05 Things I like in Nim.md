@@ -1,5 +1,5 @@
 ---
-title: "[16/100] Things I like in Nim lang 1"
+title: "Things I like in Nim lang 1"
 date: 2021-01-05
 draft: false
 tags: [language]
