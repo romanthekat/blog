@@ -4,7 +4,7 @@ date: 2021-11-01
 draft: false
 published: true
 tags: [productivity, notetaking, notemaking]
-canonical_url: https://romangaranin.dev/posts/2021-11-01-endless-canvas-for-note-taking
+canonical_url: https://romangaranin.net/posts/2021-11-01-endless-canvas-for-note-taking
 ---
 It's a big thing for me to have an endless canvas for note taking.
 Sometimes it's really useful. 

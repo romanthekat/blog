@@ -4,7 +4,7 @@ date: 2022-01-22
 draft: false
 published: true
 tags: 
-canonical_url: https://romangaranin.dev/posts/2022-01-22-stack-overflow-jobs-to-be-discontinued
+canonical_url: https://romangaranin.net/posts/2022-01-22-stack-overflow-jobs-to-be-discontinued
 ---
 Well, recent [news](https://meta.stackoverflow.com/questions/415293/sunsetting-jobs-developer-story) mean that [Stack Overflow Jobs](https://stackoverflow.com/jobs) gonna be discontinued on March 31, 2022.
 
