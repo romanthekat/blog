@@ -112,8 +112,8 @@ menu:
         - name: CV
           url: cv
           weight: 15
-        - name: PP
-          url: pp
+        - name: Planner Cat
+          url: pc
           weight: 20
 
 taxonomies:
