@@ -42,6 +42,7 @@ But there is no dark mode. It's being rumored for eons, yet alas dark mode hasn'
 _Tons of features_, devoted to note taking.
 And you will configure these.
 But sometimes a page loads in parts. It's like loading tiles in google map/openstreetmaps, part by part, with a tiny little lag.
+upd.: that's a performance optimisation, which can be switched off in 'interface' settings
 
 So I haven't selected the only 1 app for daily use.
 I still like goodnotes, for some simple and fast edits, or for strictly structured notes.
