@@ -33,19 +33,19 @@ params:
     disableThemeToggle: false
 
     ShowReadingTime: true
-    ShowShareButtons: true
+    ShowShareButtons: false
     disableSpecial1stPost: false
     comments: false
     hidemeta: false
-    showtoc: false
-    tocopen: false
+    showtoc: true
+    tocopen: true
 
     assets:
         # disableHLJS: true # to disable highlight.js
         disableFingerprinting: true
         favicon: "favicon_loaf_light.png"
         favicon16x16: "favicon_loaf_light.png"
-        favicon32x32: "favicon_loaf_loght.png"
+        favicon32x32: "favicon_loaf_light.png"
         apple_touch_icon: "favicon_loaf_light.png"
         #safari_pinned_tab: "<link / abs url>"
 
