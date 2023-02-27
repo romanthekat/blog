@@ -47,7 +47,8 @@ Works nicely.
 But if the time field has only 'date' part (`2021-02-18`), unmarshalling will fail with:
 `parsing time ""2021-02-18"" as ""2006-01-02T15:04:05Z07:00"": cannot parse """ as "T"`
 
-And in this moment you either have to fallback to using `string` type and parse the date manually, or introduce your own time type alias and provide custom (un)marshaller, for example:
+And in this moment you either have to fallback to using `string` type and parse the date manually.
+Or introduce your own time type alias and provide custom (un)marshaller, for example:
 ```go
 type Entity struct {
     Name string    `json:"name"`
