@@ -2,7 +2,6 @@
 title: "Endless canvas for note taking"
 date: 2021-11-01
 draft: false
-published: true
 tags: [productivity, notetaking, notemaking]
 canonical_url: https://romangaranin.net/posts/2021-11-01-endless-canvas-for-note-taking
 ---

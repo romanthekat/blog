@@ -2,7 +2,6 @@
 title: "Offline reading"
 date: 2021-03-06
 draft: false
-published: true
 ---
 
 I rely on several apps for reading, mostly offline ones.  

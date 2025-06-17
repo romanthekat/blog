@@ -2,7 +2,6 @@
 title: "Stack Overflow Jobs to be discontinued"
 date: 2022-01-22
 draft: false
-published: true
 tags: 
 canonical_url: https://romangaranin.net/posts/2022-01-22-stack-overflow-jobs-to-be-discontinued
 ---

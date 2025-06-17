@@ -1,7 +1,6 @@
 ---
 title: "JSON, time, and golang"
 date: 2021-02-19
-published: true
 ---
 
 Fun thing about JSON - it doesn't have dates or time support, as per RFC.

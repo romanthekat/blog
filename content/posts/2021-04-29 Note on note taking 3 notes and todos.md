@@ -1,8 +1,6 @@
 ---
 title: "Note on note taking 3: notes and todos"
 date: 2021-04-29
-draft: false
-published: true
 canonical_url: https://romangaranin.net/posts/2021-04-29-note-on-note-taking-3-notes-and-todos/
 ---
 tl;dr It's worth having 'notes' and 'todos' separately, probably in separate apps. They are too different.
